@@ -52,7 +52,7 @@ By utilizing advanced **XLOOKUP** string arrays, the data pipeline consolidates 
 Below is the live operational dashboard panel used by logistics teams to monitor gross revenue trends, regional performance metrics, and order status tracking columns in real time:
 
 <div align="center">
-  <img src="./assets/readme-images/dashboard-view.png" width="100%" alt="Fulfillment Control Dashboard View" style="margin-bottom: 15px;" />
+  <img src="./assets/readme-images/dashboard.png" width="100%" alt="Fulfillment Control Dashboard View" style="margin-bottom: 15px;" />
 </div>
 
 ### Relational Lookups & Automated Formula Engines
@@ -62,7 +62,7 @@ Below are the backend data matrices showcasing our clean multi-sheet data connec
   <tr style="border: none;">
     <td width="50%" style="padding: 5px; border: none; text-align: center;">
       <p><b>XLOOKUP Data Ingestion Pipeline</b></p>
-      <img src="./assets/readme-images/xlookup_matrices.png" width="100%" alt="Relational XLOOKUP Category Matching Ingestion" />
+      <img src="./assets/readme-images/xlookup.png" width="100%" alt="Relational XLOOKUP Category Matching Ingestion" />
     </td>
     <td width="50%" style="padding: 5px; border: none; text-align: center;">
       <p><b>IFERROR Performance & Boundary Calculations</b></p>
